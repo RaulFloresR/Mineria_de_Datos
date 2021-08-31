@@ -7,3 +7,9 @@
 [Ejercicio base de datos](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Equipo_()-ejercicio%20base%20de%20datos.pdf)
 
 [Ejercicios de Python (básicos)](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Ej_Python_1838148.ipynb)
+
+[Práctica 1 - limpieza de datos] (https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Preparacion_de_datos_netfilx_Equipo6.ipynb)
+
+[Primer avance PIA](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Primer_avance_PIA_Equipo6.ipynb)
+
+[Primer avance Pia 2](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Primer_avance_2%C2%B0BASE_PIA_Equipo6.ipynb)
