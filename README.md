@@ -22,6 +22,8 @@
 
 [Presentación visualización equipo 6](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Tecnica_Visualizacio%CC%81n_Equipo6.pdf)
 
+[Práctica visualización equipo 6. 1° base de datos][https://github.com/GonzalezFcoJavier/IntroR/blob/master/Visualizacion_2_equipo6.ipynb]
+
 [Práctica visualización equipo 6. 2° base de datos](https://github.com/GonzalezFcoJavier/IntroR/blob/master/Visualizacion_Equipo6.ipynb)
 
 [Segundo avance PIA](https://github.com/GonzalezFcoJavier/IntroR/blob/master/AvancePIA_II_Grupo002_Equipo6.ipynb)
