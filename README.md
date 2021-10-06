@@ -12,7 +12,7 @@
 
 [Primer avance PIA](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Primer_avance_PIA_Equipo6.ipynb)
 
-[Primer avance Pia 2° base de datos](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Primer_avance_2%C2%B0BASE_PIA_Equipo6.ipynb)
+[Primer avance PIA 2° base de datos](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Primer_avance_2%C2%B0BASE_PIA_Equipo6.ipynb)
 
 ## Fase II
 
@@ -21,3 +21,7 @@
 [Preguntas visualización equipo 6](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Preguntas.pdf)
 
 [Presentación visualización equipo 6](https://github.com/GonzalezFcoJavier/Mineria_de_Datos/blob/main/Tecnica_Visualizacio%CC%81n_Equipo6.pdf)
+
+[Práctica visualización equipo 6. 2° base de datos](https://github.com/GonzalezFcoJavier/IntroR/blob/master/Visualizacion_Equipo6.ipynb)
+
+[Segundo avance PIA](https://github.com/GonzalezFcoJavier/IntroR/blob/master/AvancePIA_II_Grupo002_Equipo6.ipynb)
