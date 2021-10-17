@@ -27,3 +27,7 @@
 [Práctica visualización equipo 6. 2° base de datos](https://github.com/GonzalezFcoJavier/IntroR/blob/master/Visualizacion_Equipo6.ipynb)
 
 [Segundo avance PIA](https://github.com/GonzalezFcoJavier/IntroR/blob/master/AvancePIA_II_Grupo002_Equipo6.ipynb)
+
+## Fase III
+
+[Ejercicio de técnicas de minería](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/tecnicas_de_mineria.ipynb)
