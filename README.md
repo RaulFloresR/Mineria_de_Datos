@@ -31,3 +31,5 @@
 ## Fase III
 
 [Ejercicio de técnicas de minería](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/tecnicas_de_mineria.ipynb)
+
+[Notebook](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Notebook_final.ipynb)
