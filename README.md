@@ -38,4 +38,4 @@
 
 [Notebook corregido](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/Notebook.ipynb)
 
-[Poster corregido](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/P%C3%B3ster%20final.pdf)
+[Poster corregido](https://github.com/RaulFloresR/Mineria_de_Datos/blob/main/P%C3%B3ster_Final.pdf)
